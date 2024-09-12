@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Stock_Price_Service": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7012",
+      "launchBrowser": false
+    }
+  }
+}
